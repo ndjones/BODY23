@@ -1,0 +1,1542 @@
+﻿<?xml version="1.0"?>
+<WgParam IsRootNode="">
+	<Version>106</Version>
+	<Machine>3</Machine>
+	<Mode>3</Mode>
+	<Style>11</Style>
+	<Structure>0</Structure>
+	<TurtleDiff>1</TurtleDiff>
+	<Cardigan>0</Cardigan>
+	<OnePiece>0</OnePiece>
+	<SleeveWideEqualNarrow>0</SleeveWideEqualNarrow>
+	<CollarStyle>1</CollarStyle>
+	<NeckStructLayerNo>-1</NeckStructLayerNo>
+	<NeckStructLayerNo_Back>-1</NeckStructLayerNo_Back>
+	<FrontStructLayerNo>-1</FrontStructLayerNo>
+	<BackStructLayerNo>-1</BackStructLayerNo>
+	<FrontStructMaskLayerNo>-1</FrontStructMaskLayerNo>
+	<BackStructMaskLayerNo>-1</BackStructMaskLayerNo>
+	<Rate>1</Rate>
+	<Turtle_Structure>1</Turtle_Structure>
+	<Sleeve_Structure>0</Sleeve_Structure>
+	<SleeveLine>
+		<PitchUpper>1</PitchUpper>
+		<PitchLower>1</PitchLower>
+		<Restructure>1</Restructure>
+	</SleeveLine>
+	<OpenClose>
+		<Exec>0</Exec>
+		<OpenCloseChangePos>1</OpenCloseChangePos>
+		<SlvFlat>1</SlvFlat>
+		<Shoulder>1</Shoulder>
+		<RibDoubling>0</RibDoubling>
+		<SlvDoubling>1</SlvDoubling>
+		<DecDoubling>1</DecDoubling>
+		<OpenCloseChangeHeight>0</OpenCloseChangeHeight>
+		<PullDownOpenCloseAutoDraw_Auto>0</PullDownOpenCloseAutoDraw_Auto>
+	</OpenClose>
+	<UseUserPattern>0</UseUserPattern>
+	<UserPatternDir>D:\Sysd\</UserPatternDir>
+	<WideEqualNarrow>0</WideEqualNarrow>
+	<UserSlide>0</UserSlide>
+	<StructPlain>0</StructPlain>
+	<SlvNarrowUse191>0</SlvNarrowUse191>
+	<AHWideEqualNarrow>0</AHWideEqualNarrow>
+	<CollarWideEqualNarrow>0</CollarWideEqualNarrow>
+	<BodyDartsWideEqualNarrow>0</BodyDartsWideEqualNarrow>
+	<Efficiency_PACK>0</Efficiency_PACK>
+	<Efficiency_CKnit>0</Efficiency_CKnit>
+	<Efficiency_Pipe>0</Efficiency_Pipe>
+	<UseUserDevImage>0</UseUserDevImage>
+	<TurnBackOnSlide>1</TurnBackOnSlide>
+	<NeckDecSort>0</NeckDecSort>
+	<NeckTBSort>1</NeckTBSort>
+	<SleeveIncSort>0</SleeveIncSort>
+	<AHDecSort>0</AHDecSort>
+	<AHIncSort>0</AHIncSort>
+	<PantsCenterDecSort>0</PantsCenterDecSort>
+	<WGAddParts>0</WGAddParts>
+	<MenuDitalMode>0</MenuDitalMode>
+	<UseKnittingPriorityProc>0</UseKnittingPriorityProc>
+	<SeamAllowance>-1</SeamAllowance>
+	<RaglanFrontBackDiff>1</RaglanFrontBackDiff>
+	<NeckDecSort_Smoothing>0</NeckDecSort_Smoothing>
+	<NeckDecSort_Smoothing_3>0</NeckDecSort_Smoothing_3>
+	<SleeveIncSort_Smoothing>0</SleeveIncSort_Smoothing>
+	<AHDecSort_Smoothing>0</AHDecSort_Smoothing>
+	<AHDecSort_Smoothing_3>0</AHDecSort_Smoothing_3>
+	<AHIncSort_Smoothing>0</AHIncSort_Smoothing>
+	<NeckDecSort_4Course>0</NeckDecSort_4Course>
+	<SleeveIncSort_4Course>0</SleeveIncSort_4Course>
+	<AHIncSort_4Course>1</AHIncSort_4Course>
+	<Exec_NeckDecSort>1</Exec_NeckDecSort>
+	<Exec_SleeveIncSort>1</Exec_SleeveIncSort>
+	<Exec_AHIncSort>1</Exec_AHIncSort>
+	<Exec_AHDecSort>1</Exec_AHDecSort>
+	<SleeveDecMove_Effient>0</SleeveDecMove_Effient>
+	<Exec_WaistDecIncSort>1</Exec_WaistDecIncSort>
+	<WaistIncSort_4Course>0</WaistIncSort_4Course>
+	<SleeveIncSort_InitCurveForStraight>-1</SleeveIncSort_InitCurveForStraight>
+	<SleeveDecSort_InitCurveForStraight>-1</SleeveDecSort_InitCurveForStraight>
+	<WaistIncSort_InitCurveForStraight>0</WaistIncSort_InitCurveForStraight>
+	<WaistDecSort_InitCurveForStraight>1</WaistDecSort_InitCurveForStraight>
+	<ParachuteSort_InitCurveForStraight>1</ParachuteSort_InitCurveForStraight>
+	<Exec_AvoidRibBack_Collar>1</Exec_AvoidRibBack_Collar>
+	<Exec_TB_Etc>1</Exec_TB_Etc>
+	<Exec_AvoidRibBack_Etc>1</Exec_AvoidRibBack_Etc>
+	<Exec_ParaDecSort>1</Exec_ParaDecSort>
+	<Exec_BodyFlareDecSort>1</Exec_BodyFlareDecSort>
+	<Exec_SleeveFlareDecSort>1</Exec_SleeveFlareDecSort>
+	<Exec_AvoidRibBack_UnderConnect>1</Exec_AvoidRibBack_UnderConnect>
+	<Exec_UnderBodyDartsSort>1</Exec_UnderBodyDartsSort>
+	<Exec_UnderBodyDartsSort_4Course>0</Exec_UnderBodyDartsSort_4Course>
+	<DeleteFlechageAfterHem>1</DeleteFlechageAfterHem>
+	<OnePieceSuteSplitCourse>20</OnePieceSuteSplitCourse>
+	<OnePieceSuteStartWidth>36</OnePieceSuteStartWidth>
+	<ManualDefault>0</ManualDefault>
+	<BodySlvDiff2ndStitch>0</BodySlvDiff2ndStitch>
+	<DrawMiss_SleeveLessAH>0</DrawMiss_SleeveLessAH>
+	<CKnitTurnBack199>0</CKnitTurnBack199>
+	<WGPackageDevVersion>67</WGPackageDevVersion>
+	<HagiDartsColorVersion>2</HagiDartsColorVersion>
+	<WGPackageDevUserAddVersion>1</WGPackageDevUserAddVersion>
+	<RibPatternVersion>1</RibPatternVersion>
+	<SizeChangeVersion>0</SizeChangeVersion>
+	<MachineChangeVersion>0</MachineChangeVersion>
+	<IsHagiMetateStructure>0</IsHagiMetateStructure>
+	<IsHagiMetateStructure_Parachute>0</IsHagiMetateStructure_Parachute>
+	<IsHagiMetateStructure_FlareSkirt>0</IsHagiMetateStructure_FlareSkirt>
+	<IsHagiMetateStructure_Default>1</IsHagiMetateStructure_Default>
+	<IsCode228_UnderConnectBody>0</IsCode228_UnderConnectBody>
+	<VisualSlide_Collar_Changed>0</VisualSlide_Collar_Changed>
+	<Rib>
+		<Type>3</Type>
+		<SetupType>2</SetupType>
+		<SlvRibType>3</SlvRibType>
+		<Doubling>
+			<Exec>0</Exec>
+			<Pitch>1</Pitch>
+			<Num>0</Num>
+		</Doubling>
+		<Plating>0</Plating>
+		<SlvPlating>0</SlvPlating>
+		<CourseNum>1</CourseNum>
+		<Knotting>0</Knotting>
+		<Start>0</Start>
+		<SuteBeforeRib>0</SuteBeforeRib>
+		<SuteBeforeRibNum>10</SuteBeforeRibNum>
+		<SuteCoursePer>100</SuteCoursePer>
+		<PantsSutePer>100</PantsSutePer>
+		<SutePullDown>0</SutePullDown>
+		<SuteStructure>0</SuteStructure>
+		<SuteType>0</SuteType>
+		<SuteTopCourseNum>6</SuteTopCourseNum>
+		<SuteSetupCourseNum>2</SuteSetupCourseNum>
+		<StartInsideRib>0</StartInsideRib>
+		<StartUpUnderBed>0</StartUpUnderBed>
+		<BodySlitCourse>0</BodySlitCourse>
+		<RibJumpNum>1</RibJumpNum>
+		<SleeveRibJumpNum>1</SleeveRibJumpNum>
+		<UseYG>1</UseYG>
+		<PrevCurl>0</PrevCurl>
+		<DoubNoTransSlv>1</DoubNoTransSlv>
+		<KnitBeforeDoubling>0</KnitBeforeDoubling>
+		<DoublingPosForAssist>1</DoublingPosForAssist>
+		<Doubling2x2Sep>0</Doubling2x2Sep>
+		<AsidePlacket>0</AsidePlacket>
+		<SuteWidth>0</SuteWidth>
+		<DiffSlvRibType>0</DiffSlvRibType>
+		<FAfterRib>0</FAfterRib>
+		<MaxRackingPitch>9</MaxRackingPitch>
+		<AdjustStretchSlv>0</AdjustStretchSlv>
+		<AdjSlvYarnType>0</AdjSlvYarnType>
+		<StretchSlvCourse>2</StretchSlvCourse>
+		<GarterLoopNo3>0</GarterLoopNo3>
+		<GarterRSlvOutside>1</GarterRSlvOutside>
+		<RibCourseNum>4</RibCourseNum>
+		<SleeveRibCourseNum>4</SleeveRibCourseNum>
+		<UserType>3</UserType>
+		<SlvUserType>3</SlvUserType>
+		<ExecuteVisualSlide>0</ExecuteVisualSlide>
+		<UserBodySlitCourse>0</UserBodySlitCourse>
+	</Rib>
+	<WaistW>
+		<Type>0</Type>
+		<TransferNum>5</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</WaistW>
+	<SleeveW>
+		<Type>0</Type>
+		<TransferNum>5</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</SleeveW>
+	<WaistN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">5</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</WaistN>
+	<SleeveN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>0</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">3</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>3</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</SleeveN>
+	<SleeveWOut>
+		<Type>0</Type>
+		<TransferNum>5</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</SleeveWOut>
+	<SleeveNUnderIn>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>1</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">5</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</SleeveNUnderIn>
+	<SleeveNUnderOut>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>1</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">5</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</SleeveNUnderOut>
+	<ArmHoleN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">4</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>4</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</ArmHoleN>
+	<CollarN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">5</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</CollarN>
+	<SleeveConnect>
+		<Style>2</Style>
+		<Doubling>
+			<Exec>0</Exec>
+			<Pitch>1</Pitch>
+			<Num>0</Num>
+		</Doubling>
+		<Type>1</Type>
+		<Knotting>0</Knotting>
+		<MoveType>0</MoveType>
+		<MachiC>
+			<CourseNum>0</CourseNum>
+		</MachiC>
+		<MachiD>
+			<WidthNum>4</WidthNum>
+		</MachiD>
+		<SleeveTransType>0</SleeveTransType>
+		<FAfterMachi>0</FAfterMachi>
+		<MachiSepCourse>0</MachiSepCourse>
+		<PosX_AfterMachi>-9999</PosX_AfterMachi>
+	</SleeveConnect>
+	<UnderArm>
+		<Style>0</Style>
+		<Type>0</Type>
+		<CourseNum>8</CourseNum>
+		<FixAHLine>1</FixAHLine>
+	</UnderArm>
+	<Collar>
+		<Style>1</Style>
+		<Turtle>
+			<UsePattern>0</UsePattern>
+			<Struct>2</Struct>
+			<BindOff>3</BindOff>
+			<BOYarn>12</BOYarn>
+			<Sute>0</Sute>
+			<SepCourseNum>0</SepCourseNum>
+			<WideFront>0</WideFront>
+			<JumpNum>10</JumpNum>
+			<TurtleBindOffJumpNum>10</TurtleBindOffJumpNum>
+			<TurtleWasteJumpNum>10</TurtleWasteJumpNum>
+			<UV_BindOffJumpNum>10</UV_BindOffJumpNum>
+			<UV_WasteJumpNum>10</UV_WasteJumpNum>
+			<TurtleBindOffOffSetNum>0</TurtleBindOffOffSetNum>
+		</Turtle>
+		<Doubling>
+			<Exec>0</Exec>
+			<Pitch>1</Pitch>
+			<Num>0</Num>
+		</Doubling>
+		<BindOffDoubling>
+			<Exec>0</Exec>
+			<Pitch>1</Pitch>
+			<Num>0</Num>
+		</BindOffDoubling>
+		<SP>
+			<Type>1</Type>
+			<Width>8</Width>
+			<RightPos>8</RightPos>
+			<RightPos2>8</RightPos2>
+			<Rate>2</Rate>
+			<Rate2>4</Rate2>
+			<ChangeRatePos>-1</ChangeRatePos>
+			<ChangeRatePosPat>-1</ChangeRatePosPat>
+			<SideCourse>24</SideCourse>
+			<FrontCourse>20</FrontCourse>
+			<CenterCourse>33</CenterCourse>
+			<InsideBase>0</InsideBase>
+			<Efficiency>0</Efficiency>
+			<LoopNo>0</LoopNo>
+			<SP_EfficiencyPitch>28</SP_EfficiencyPitch>
+			<FinType>3</FinType>
+			<FinWasteBindJumpNum>10</FinWasteBindJumpNum>
+		</SP>
+		<UV>
+			<BackType>2</BackType>
+			<SepCourseNum>4</SepCourseNum>
+		</UV>
+		<TurnBack_UseNarrow>0</TurnBack_UseNarrow>
+		<Polo>
+			<IsPolo>0</IsPolo>
+			<Width>0</Width>
+			<Height>0</Height>
+		</Polo>
+		<DrawCable>1</DrawCable>
+		<NeckCableType>2</NeckCableType>
+		<DrawTurnBackMiss>0</DrawTurnBackMiss>
+		<DrawCPFrontMark>0</DrawCPFrontMark>
+		<DrawCPBackMark>0</DrawCPBackMark>
+		<DrawCPSleeveMark>0</DrawCPSleeveMark>
+		<FAfterUBindOff>0</FAfterUBindOff>
+		<FAfterSPDoubling>1</FAfterSPDoubling>
+		<Turtle_DrawTurnBackMiss>0</Turtle_DrawTurnBackMiss>
+		<Turtle_OutNrw_ForSetinB>0</Turtle_OutNrw_ForSetinB>
+		<Turtle_BindTypeEYarnSet>1</Turtle_BindTypeEYarnSet>
+		<TurtleOverlapBindOff>0</TurtleOverlapBindOff>
+		<UNeckOutsideNarrow>0</UNeckOutsideNarrow>
+		<DrawSepMiss116>0</DrawSepMiss116>
+		<AsymmetryNeck>0</AsymmetryNeck>
+		<TurtleTurnBackMaxCourseType>0</TurtleTurnBackMaxCourseType>
+		<TurtleDropType>0</TurtleDropType>
+		<TurtleDropMovePosY>9999</TurtleDropMovePosY>
+		<DropTurtleForceFixFlag>1</DropTurtleForceFixFlag>
+		<TurtleTBTuckType>1</TurtleTBTuckType>
+		<NeckStartWidth>4</NeckStartWidth>
+		<NeckStartExtraUserPos></NeckStartExtraUserPos>
+	</Collar>
+	<Shoulder>
+		<Version>2</Version>
+		<FrontType>2</FrontType>
+		<AdvFrontDrop>0</AdvFrontDrop>
+		<BSExtraKnit>1</BSExtraKnit>
+		<ShoulderMissDraw>1</ShoulderMissDraw>
+		<EpaShoulderMissDraw>0</EpaShoulderMissDraw>
+		<BackShoulderMissDraw>1</BackShoulderMissDraw>
+		<FAfterBackSld>1</FAfterBackSld>
+		<SlideShoulderBindOffDraw>1</SlideShoulderBindOffDraw>
+		<ShoulderBindOffType>3</ShoulderBindOffType>
+		<BackType>4</BackType>
+		<StitchNum>9999</StitchNum>
+		<KnitRatio>1</KnitRatio>
+		<RateCourseNum>-1</RateCourseNum>
+		<Doubling>
+			<Exec>0</Exec>
+			<Pitch>1</Pitch>
+			<Num>0</Num>
+		</Doubling>
+		<OldDevelop>0</OldDevelop>
+		<ConnectType>0</ConnectType>
+		<OverlapType>5</OverlapType>
+		<OverlapNorRev>
+			<Num type="array" ID="0">1</Num>
+			<Num type="array" ID="1">1</Num>
+			<Num type="array" ID="2">1</Num>
+			<Num type="array" ID="3">1</Num>
+		</OverlapNorRev>
+		<PickUpSt>1</PickUpSt>
+		<Transfer>
+			<Num type="array" ID="0">5</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<DoublingPosMode>0</DoublingPosMode>
+		<Draw2ndStitch>0</Draw2ndStitch>
+		<DrawEpaulet2ndStitch>0</DrawEpaulet2ndStitch>
+		<TateNum2>-99</TateNum2>
+		<KnitCourseAfterDoubling>1</KnitCourseAfterDoubling>
+		<AfterDoub2ndStitch>1</AfterDoub2ndStitch>
+		<SlvCapPitchChange_B1>0</SlvCapPitchChange_B1>
+		<StitchCourseNum>9999</StitchCourseNum>
+		<FlatSlvCapCourseNum>9999</FlatSlvCapCourseNum>
+		<IsNewTSleeve>0</IsNewTSleeve>
+		<KnitRatio_Sub>5</KnitRatio_Sub>
+		<FBDiffChecked>0</FBDiffChecked>
+		<StitchCourseNum_FShoulder>9999</StitchCourseNum_FShoulder>
+		<StitchNum_FShoulder>9999</StitchNum_FShoulder>
+		<StitchNum_EpauletA>9999</StitchNum_EpauletA>
+		<DrawDiffFBTogether>0</DrawDiffFBTogether>
+		<WithBindOff>0</WithBindOff>
+		<DropTurtlePillarHeight>0</DropTurtlePillarHeight>
+		<DropTurtleCollarFixedNum>0</DropTurtleCollarFixedNum>
+		<DropTurtleConnectMiss>1</DropTurtleConnectMiss>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</Shoulder>
+	<Parachute>
+		<StitchConnect>0</StitchConnect>
+		<TransferNum>2</TransferNum>
+		<NarrowPitch>1</NarrowPitch>
+		<HagiCount>8</HagiCount>
+		<TurnBackStructAdv>0</TurnBackStructAdv>
+		<TransferA>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferA>
+		<TransferB>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferB>
+		<IncreaseWidthPitch>1</IncreaseWidthPitch>
+		<MissDraw>0</MissDraw>
+		<HagiCourseShiftMode>0</HagiCourseShiftMode>
+		<TateNum2>-99</TateNum2>
+		<GroupFix>0</GroupFix>
+		<AdjustParachuteWidth>0</AdjustParachuteWidth>
+		<HagiWidthMode>1</HagiWidthMode>
+		<LimitNum>-1</LimitNum>
+		<HagiCourseShift_2Course>0</HagiCourseShift_2Course>
+		<HagiCourseShift_2Pitch>0</HagiCourseShift_2Pitch>
+		<HagiCourseShift_Num>1</HagiCourseShift_Num>
+		<EvenlySplitHagiWidth>0</EvenlySplitHagiWidth>
+		<ChangeFront>1</ChangeFront>
+		<Version>1</Version>
+		<OrgHagiWidth_Top>-1</OrgHagiWidth_Top>
+		<OrgHagiWidth_Bottom>-1</OrgHagiWidth_Bottom>
+		<OrgHagiCount>-1</OrgHagiCount>
+		<HagiWidth_Top>-1</HagiWidth_Top>
+		<HagiWidth_Bottom>-1</HagiWidth_Bottom>
+		<DefaultHagiWidth_Top>-1</DefaultHagiWidth_Top>
+		<DefaultHagiWidth_Bottom>-1</DefaultHagiWidth_Bottom>
+		<DefaultHagiCount>-1</DefaultHagiCount>
+		<Data>
+			<Line type="array" ID="0">1</Line>
+		</Data>
+		<HagiStructureDrawMode>0</HagiStructureDrawMode>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</Parachute>
+	<UnderFlare>
+		<StitchConnect>0</StitchConnect>
+		<TransferNum>2</TransferNum>
+		<NarrowPitch>1</NarrowPitch>
+		<HagiCount>8</HagiCount>
+		<TurnBackStructAdv>0</TurnBackStructAdv>
+		<TransferA>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferA>
+		<TransferB>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferB>
+		<IncreaseWidthPitch>1</IncreaseWidthPitch>
+		<MissDraw>0</MissDraw>
+		<HagiCourseShiftMode>0</HagiCourseShiftMode>
+		<TateNum2>-99</TateNum2>
+		<GroupFix>0</GroupFix>
+		<AdjustParachuteWidth>0</AdjustParachuteWidth>
+		<HagiWidthMode>1</HagiWidthMode>
+		<LimitNum>-1</LimitNum>
+		<HagiCourseShift_2Course>0</HagiCourseShift_2Course>
+		<HagiCourseShift_2Pitch>0</HagiCourseShift_2Pitch>
+		<HagiCourseShift_Num>1</HagiCourseShift_Num>
+		<EvenlySplitHagiWidth>0</EvenlySplitHagiWidth>
+		<ChangeFront>1</ChangeFront>
+		<Version>1</Version>
+		<OrgHagiWidth_Top>-1</OrgHagiWidth_Top>
+		<OrgHagiWidth_Bottom>-1</OrgHagiWidth_Bottom>
+		<OrgHagiCount>-1</OrgHagiCount>
+		<HagiWidth_Top>-1</HagiWidth_Top>
+		<HagiWidth_Bottom>-1</HagiWidth_Bottom>
+		<DefaultHagiWidth_Top>-1</DefaultHagiWidth_Top>
+		<DefaultHagiWidth_Bottom>-1</DefaultHagiWidth_Bottom>
+		<DefaultHagiCount>-1</DefaultHagiCount>
+		<Data>
+			<Line type="array" ID="0">1</Line>
+		</Data>
+		<HagiStructureDrawMode>0</HagiStructureDrawMode>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</UnderFlare>
+	<UnderSlvFlare>
+		<StitchConnect>0</StitchConnect>
+		<TransferNum>2</TransferNum>
+		<NarrowPitch>1</NarrowPitch>
+		<HagiCount>0</HagiCount>
+		<TurnBackStructAdv>0</TurnBackStructAdv>
+		<TransferA>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferA>
+		<TransferB>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</TransferB>
+		<IncreaseWidthPitch>1</IncreaseWidthPitch>
+		<MissDraw>0</MissDraw>
+		<HagiCourseShiftMode>0</HagiCourseShiftMode>
+		<TateNum2>-99</TateNum2>
+		<GroupFix>0</GroupFix>
+		<AdjustParachuteWidth>0</AdjustParachuteWidth>
+		<HagiWidthMode>1</HagiWidthMode>
+		<LimitNum>-1</LimitNum>
+		<HagiCourseShift_2Course>0</HagiCourseShift_2Course>
+		<HagiCourseShift_2Pitch>0</HagiCourseShift_2Pitch>
+		<HagiCourseShift_Num>1</HagiCourseShift_Num>
+		<EvenlySplitHagiWidth>0</EvenlySplitHagiWidth>
+		<ChangeFront>1</ChangeFront>
+		<Version>1</Version>
+		<OrgHagiWidth_Top>-1</OrgHagiWidth_Top>
+		<OrgHagiWidth_Bottom>-1</OrgHagiWidth_Bottom>
+		<OrgHagiCount>-1</OrgHagiCount>
+		<HagiWidth_Top>-1</HagiWidth_Top>
+		<HagiWidth_Bottom>-1</HagiWidth_Bottom>
+		<DefaultHagiWidth_Top>-1</DefaultHagiWidth_Top>
+		<DefaultHagiWidth_Bottom>-1</DefaultHagiWidth_Bottom>
+		<DefaultHagiCount>-1</DefaultHagiCount>
+		<Data>
+			<Line type="array" ID="0">1</Line>
+		</Data>
+		<HagiStructureDrawMode>0</HagiStructureDrawMode>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</UnderSlvFlare>
+	<DartsN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>0</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">3</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>3</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</DartsN>
+	<Belt>
+		<Type>0</Type>
+		<Outside>0</Outside>
+		<Inside>0</Inside>
+		<OutsideCourse>11</OutsideCourse>
+		<No12Course>3</No12Course>
+		<HoleCourse>6</HoleCourse>
+		<No14Course>3</No14Course>
+		<SuteCourse>4</SuteCourse>
+		<Auto_OutsideCourse>11</Auto_OutsideCourse>
+		<Auto_No12Course>3</Auto_No12Course>
+		<Auto_HoleCourse>6</Auto_HoleCourse>
+		<Auto_No14Course>3</Auto_No14Course>
+		<Auto_SuteCourse>4</Auto_SuteCourse>
+	</Belt>
+	<CollarW>
+		<Type>1</Type>
+		<TransferNum>5</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>5</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</CollarW>
+	<ThreeDSlvN0>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">3</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>3</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</ThreeDSlvN0>
+	<ThreeDSlvN1>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">1</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>1</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</ThreeDSlvN1>
+	<ThreeDSlvN2>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>2</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">4</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>4</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</ThreeDSlvN2>
+	<ArmHoleW>
+		<Type>0</Type>
+		<TransferNum>4</TransferNum>
+		<InsideWideType>1</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>4</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</ArmHoleW>
+	<ColorChange>
+		<Use>0</Use>
+	</ColorChange>
+	<Pants>
+		<IncCourse>
+			<Exec>0</Exec>
+			<WidthRate>60</WidthRate>
+			<Rate>5</Rate>
+		</IncCourse>
+		<MachiType>0</MachiType>
+		<Shape_Type>0</Shape_Type>
+		<AddHeel>0</AddHeel>
+		<HeelTurnBackVolume>0</HeelTurnBackVolume>
+		<UnderHeelCourse>40</UnderHeelCourse>
+		<EndKnitType>0</EndKnitType>
+		<change97_LRwidth>18</change97_LRwidth>
+		<LR_Flag>0</LR_Flag>
+	</Pants>
+	<Init>
+		<RibFront>2</RibFront>
+		<RibBack>2</RibBack>
+		<SleeveRibFront>2</SleeveRibFront>
+		<SleeveRibBack>2</SleeveRibBack>
+		<Turtle_RibFront>2</Turtle_RibFront>
+		<Turtle_RibBack>2</Turtle_RibBack>
+		<Turtle_StartFront>1</Turtle_StartFront>
+		<Turtle_StartFront_ForSetinB1>0</Turtle_StartFront_ForSetinB1>
+		<WidthAutoChg>1</WidthAutoChg>
+		<ExtraStitchNum>0</ExtraStitchNum>
+		<FixSlvNarrowCourse>0</FixSlvNarrowCourse>
+		<AddFleUNeck>0</AddFleUNeck>
+		<BodyRibCenterFrontBack>1</BodyRibCenterFrontBack>
+		<BodyRibCenterFrontBack_Result>1</BodyRibCenterFrontBack_Result>
+		<VisualShapingVersion>0</VisualShapingVersion>
+		<DisableColor>
+			<Rev>0</Rev>
+			<Use>1</Use>
+		</DisableColor>
+	</Init>
+	<TurnBackN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>0</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">4</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>4</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</TurnBackN>
+	<Stripe>
+		<IsStripePattern>0</IsStripePattern>
+		<YarnOutPos>0</YarnOutPos>
+		<YarnOutType>0</YarnOutType>
+		<YarnOutSetAHLine>0</YarnOutSetAHLine>
+		<SuteWidthType>0</SuteWidthType>
+	</Stripe>
+	<SetinKuri>
+		<KuriDiffNum>0</KuriDiffNum>
+		<TurnBackFB>1</TurnBackFB>
+		<IsKuriDiff>1</IsKuriDiff>
+		<AHWideYoseType>1</AHWideYoseType>
+		<AHWideYoseEven>1</AHWideYoseEven>
+		<ShiftSleeveWSlide>0</ShiftSleeveWSlide>
+		<UseNotch>0</UseNotch>
+		<Course243>0</Course243>
+		<Course242>0</Course242>
+		<MashiAmiPosForTack>0</MashiAmiPosForTack>
+		<SlvFlatWeakYarn>0</SlvFlatWeakYarn>
+		<FrontNotch>
+			<Notch>0,0,0,0,0,0,0,0,0,0</Notch>
+			<NotchDefault>0,0,0,0,0,0,0,0,0,0</NotchDefault>
+			<SP>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SP>
+			<SPDefault>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SPDefault>
+			<SlvCap>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCap>
+			<SlvCapDefault>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCapDefault>
+		</FrontNotch>
+		<BackNotch>
+			<Notch>0,0,0,0,0,0,0,0,0,0</Notch>
+			<NotchDefault>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</NotchDefault>
+			<SP>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SP>
+			<SPDefault>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</SPDefault>
+			<SlvCap>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCap>
+			<SlvCapDefault>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCapDefault>
+		</BackNotch>
+		<SleeveNotch>
+			<Notch>0,0,0,0,0,0,0,0,0,0</Notch>
+			<NotchDefault>0,0,0,0,0,0,0,0,0,0</NotchDefault>
+			<SP>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SP>
+			<SPDefault>0,-1,-1,-1,-1,-1,-1,-1,-1,-1</SPDefault>
+			<SlvCap>4,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCap>
+			<SlvCapDefault>4,-1,-1,-1,-1,-1,-1,-1,-1,-1</SlvCapDefault>
+		</SleeveNotch>
+	</SetinKuri>
+	<Triangle>
+		<MachiHeight>0</MachiHeight>
+		<Height99>0</Height99>
+		<DrawYose>1</DrawYose>
+	</Triangle>
+	<PatternPoint>
+		<FrontUnderFlare_00>
+			<NarrowWide>0</NarrowWide>
+			<Area>115,50,139,443</Area>
+			<Rate_Data>0.003,0.013,0.825,0.840,1.000,1.000</Rate_Data>
+		</FrontUnderFlare_00>
+		<BackUnderFlare_00>
+			<NarrowWide>0</NarrowWide>
+			<Area>115,50,139,452</Area>
+			<Rate_Data>0.002,0.012,0.821,0.978,1.000,1.000</Rate_Data>
+		</BackUnderFlare_00>
+	</PatternPoint>
+	<ThreeDSlvParam>
+		<AHHeight>0</AHHeight>
+		<BodySldCourse>0</BodySldCourse>
+		<SlvSldCourse>0</SlvSldCourse>
+		<SlvInsideHeight>0</SlvInsideHeight>
+		<SlvParaWidth>0</SlvParaWidth>
+		<ExecuteSleeveChage>1</ExecuteSleeveChage>
+		<StraightWidth>3</StraightWidth>
+		<ThreeDMachiWidth>0</ThreeDMachiWidth>
+		<ShoulderExtraKnitType>1</ShoulderExtraKnitType>
+	</ThreeDSlvParam>
+	<Epaulet>
+		<Height>0</Height>
+		<Width>5</Width>
+		<Course265>0</Course265>
+		<Course242>0</Course242>
+		<Course243>0</Course243>
+		<SlvCapMode>0</SlvCapMode>
+		<StitchNum>9999</StitchNum>
+		<StitchCourseNum>9999</StitchCourseNum>
+		<FlatSlvCapCourseNum>9999</FlatSlvCapCourseNum>
+		<KnitRatio_Sub>5</KnitRatio_Sub>
+	</Epaulet>
+	<BodyDartsInN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>1</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>2</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</BodyDartsInN>
+	<BodyDartsOutN>
+		<StitchConnect>0</StitchConnect>
+		<Pitch>1</Pitch>
+		<GroupFix>0</GroupFix>
+		<ClipArea>0</ClipArea>
+		<TateNum2>-99</TateNum2>
+		<Type>1</Type>
+		<Change2ndStitch>0</Change2ndStitch>
+		<DecWidthChangeFront>1</DecWidthChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+		<Transfer>
+			<Num type="array" ID="0">2</Num>
+			<Num type="array" ID="1">0</Num>
+			<Num type="array" ID="2">0</Num>
+			<Num type="array" ID="3">0</Num>
+			<Num type="array" ID="4">0</Num>
+			<Num type="array" ID="5">0</Num>
+			<Num type="array" ID="6">0</Num>
+			<Num type="array" ID="7">0</Num>
+			<Num type="array" ID="8">0</Num>
+			<Num type="array" ID="9">0</Num>
+			<Num type="array" ID="10">0</Num>
+			<Num type="array" ID="11">0</Num>
+			<Num type="array" ID="12">0</Num>
+			<Num type="array" ID="13">0</Num>
+			<Num type="array" ID="14">0</Num>
+			<Num type="array" ID="15">0</Num>
+		</Transfer>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>2</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+	</BodyDartsOutN>
+	<BodyDartsInW>
+		<Type>1</Type>
+		<TransferNum>2</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>2</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</BodyDartsInW>
+	<BodyDartsOutW>
+		<Type>1</Type>
+		<TransferNum>2</TransferNum>
+		<InsideWideType>3</InsideWideType>
+		<OutsideWideType>0</OutsideWideType>
+		<UserSlide>
+			<Draw>1</Draw>
+			<AddWidth>0</AddWidth>
+			<Trance>0</Trance>
+			<FBCourseFix>0</FBCourseFix>
+			<CollarSlide>1</CollarSlide>
+			<FrontSlide>1</FrontSlide>
+			<UseSJ_AH>0</UseSJ_AH>
+			<FromTop>0</FromTop>
+			<Course>1</Course>
+			<Width>2</Width>
+			<Exist>0</Exist>
+		</UserSlide>
+		<PasteDAT>
+			<FileName></FileName>
+			<OffX>0</OffX>
+			<OffY>0</OffY>
+		</PasteDAT>
+		<OutsideIncMissDraw>1</OutsideIncMissDraw>
+		<MissDraw>0</MissDraw>
+		<TateNum2>0</TateNum2>
+		<ChangeFront>1</ChangeFront>
+		<IsValidUserTransferNum>0</IsValidUserTransferNum>
+	</BodyDartsOutW>
+	<SplitCableSetting>
+		<WG_SplitCableExists>0</WG_SplitCableExists>
+		<SplitCableProcMode_2x1FB_Norm>1</SplitCableProcMode_2x1FB_Norm>
+		<SplitCableProcMode_2x1FB_Split>0</SplitCableProcMode_2x1FB_Split>
+		<SplitCableProcMode_3x1FB_Norm>1</SplitCableProcMode_3x1FB_Norm>
+		<SplitCableProcMode_3x1FB_Split>0</SplitCableProcMode_3x1FB_Split>
+		<IsAutoSepMode>1</IsAutoSepMode>
+	</SplitCableSetting>
+	<PassingCable>
+		<Use1x1>0</Use1x1>
+		<Use2x1>0</Use2x1>
+		<Use2x2>0</Use2x2>
+		<Use3x1>0</Use3x1>
+		<Use3x2>0</Use3x2>
+		<Use3x3>0</Use3x3>
+		<Use4AndOver>0</Use4AndOver>
+		<DrawType>1</DrawType>
+		<PassingProc>0</PassingProc>
+	</PassingCable>
+	<PackConvert>
+		<Enabled>0</Enabled>
+		<OPSize>0</OPSize>
+	</PackConvert>
+</WgParam>

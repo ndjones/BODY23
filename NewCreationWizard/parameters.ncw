@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<NewCreation>
+	<WizardProcess>
+		<version>1</version>
+		<make_type>whole</make_type>
+		<input_mode>size</input_mode>
+		<knitting_type>half_gauge</knitting_type>
+		<gauge_input>normal</gauge_input>
+		<prev_limit>0</prev_limit>
+	</WizardProcess>
+</NewCreation>
